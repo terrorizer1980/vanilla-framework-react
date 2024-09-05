@@ -26,7 +26,7 @@
     "dedent-js": "^1.0.1",
     "natural-compare-lite": "^1.4.0",
     "pretty": "^2.0.0",
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.2"
   },
   "devDependencies": {
     "@percy-io/percy-storybook": "1.2.7",
